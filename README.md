@@ -8,4 +8,4 @@ Local Outlier Factor,
 Feature Engineering, 
 One Hot Encoding, 
 ML Algorithms With Tuning, 
-Model Comparison, 
+Model Comparison.
